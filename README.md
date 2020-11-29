@@ -1,1 +1,1 @@
-# shoppingapp-ladies
+# CICD-DEMO
